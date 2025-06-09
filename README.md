@@ -51,5 +51,5 @@ Filters/ – IIR filter implementation (coefficients, processing functions)
 - **Low-Pass**: Passes low frequencies, attenuates high frequencies  
 - **High-Pass**: Passes high frequencies, attenuates low frequencies  
 - **Band-Pass**: Passes a specific frequency range  
-- **Band-Stop (Notch)**: Rejects a specific frequency range  
+- **All-Pass**: Passes all frequencies
 
