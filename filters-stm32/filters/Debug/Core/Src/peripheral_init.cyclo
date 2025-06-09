@@ -1,0 +1,6 @@
+../Core/Src/peripheral_init.c:16:6:peripheral_init	1
+../Core/Src/peripheral_init.c:25:6:SystemClock_Config	3
+../Core/Src/peripheral_init.c:67:13:MX_ADC1_Init	3
+../Core/Src/peripheral_init.c:104:13:MX_UART4_Init	2
+../Core/Src/peripheral_init.c:125:13:MX_DMA_Init	1
+../Core/Src/peripheral_init.c:137:13:MX_GPIO_Init	1

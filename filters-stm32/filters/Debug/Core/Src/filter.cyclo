@@ -1,0 +1,4 @@
+../Core/Src/filter.c:10:6:apply_lowpass_filter	2
+../Core/Src/filter.c:21:6:apply_highpass_filter	2
+../Core/Src/filter.c:32:6:apply_bandpass_filter	3
+../Core/Src/filter.c:55:6:apply_allpass_filter	2

@@ -1,0 +1,4 @@
+../Core/Src/main.c:15:5:main	1096	static
+../Core/Src/main.c:49:6:apply_selected_filter	24	static
+../Core/Src/main.c:60:6:send_signal_pair	56	static
+../Core/Src/main.c:67:6:HAL_GPIO_EXTI_Callback	72	static
